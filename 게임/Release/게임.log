@@ -1,0 +1,25 @@
+﻿빌드 시작: 2014-08-17 오후 9:19:20
+2 노드의 "C:\Users\김현진\Desktop\개발\개인프로젝트게임\게임\게임\게임.vcxproj" 프로젝트(Build 대상)입니다.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt crush.cpp dark.cpp directX.cpp loading.cpp move.cpp Setmap.cpp test.cpp obstacle.cpp
+  crush.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  dark.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  directX.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  loading.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  move.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  Setmap.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  test.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  obstacle.cpp
+c:\users\김현진\desktop\개발\개인프로젝트게임\게임\게임\Stdafx.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+"C:\Users\김현진\Desktop\개발\개인프로젝트게임\게임\게임\게임.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:05.10
